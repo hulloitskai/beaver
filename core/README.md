@@ -1,26 +1,13 @@
-# core
+# beaver-core
+
+_The core Beaver editor, written in Vue._
 
 ## Project setup
-```
-yarn install
-```
 
-### Compiles and hot-reloads for development
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-```
-yarn run build
-```
-
-### Run your tests
-```
-yarn run test
-```
-
-### Lints and fixes files
-```
-yarn run lint
+```bash
+yarn install   # installs project dependencies
+yarn run serve # compiles and hot-reloads for development
+yarn run build # compiles and minifies for production
+yarn run test  # run your tests
+yarn run lint  # lints and fixes files
 ```
